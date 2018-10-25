@@ -1,0 +1,25 @@
+{
+  "name": "ssd_a2_repo",
+  "version": "1.0.0",
+  "description": "OAuth 2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thariya13/SSD_A2_repo.git"
+  },
+  "author": "Tharindu Gunarathna - IT14145476",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thariya13/SSD_A2_repo/issues"
+  },
+  "homepage": "https://github.com/Thariya13/SSD_A2_repo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "^1.18.3",
+    "googleapis": "^27.0.0",
+    "nocache": "^2.0.0"
+  }
+}
